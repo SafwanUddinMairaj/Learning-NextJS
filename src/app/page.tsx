@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02] ">
-          <h1 className="text-2xl text-center"> <b>Test App!</b></h1>
+          <h1 className="text-2xl text-center"> <b>Course Hub!</b></h1>
     </main>
   );
 
