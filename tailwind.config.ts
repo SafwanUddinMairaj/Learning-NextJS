@@ -18,6 +18,7 @@ function addVariablesForColors({ addBase, theme }: any) {
   });
 }
 
+// Plugin to add each Tailwind color as a global CSS variable
 const config: Config = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
